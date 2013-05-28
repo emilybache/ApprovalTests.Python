@@ -1,0 +1,1 @@
+Python version of ApprovalTests library. See http://approvaltests.sourceforge.net/
